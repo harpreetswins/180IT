@@ -1,0 +1,1 @@
+ALTER SCHEMA service TRANSFER system.LookupValues
